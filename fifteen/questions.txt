@@ -1,0 +1,4 @@
+0. it allows: minimum 3x3 and maximum 9x9 inclusive.
+1. a multidimentional array, 2D array.
+2. functions called are: clear(), printf() and usleep().
+3. functions i have to implement are: innit(), draw(), move(), won(). 
